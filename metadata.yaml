@@ -1,0 +1,28 @@
+_repo: Copy-of-Letters-sent-to-Great-Britain-by-His-Excellency-Thomas-Hutchinson-the-Hon-Andrew-Oliv__48819
+creator:
+  authors:
+  - agent_name: Oliver, Andrew
+    birthdate: 1706
+    deathdate: 1774
+    gutenberg_agent_id: '44982'
+    url: http://www.gutenberg.org/2009/agents/44982
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Oliver
+  - agent_name: Hutchinson, Thomas
+    birthdate: 1711
+    deathdate: 1780
+    gutenberg_agent_id: '44985'
+    url: http://www.gutenberg.org/2009/agents/44985
+description: ''
+gutenberg_issued: '2015-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Sources'
+title: Copy of Letters sent to Great-Britain by His Excellency Thomas Hutchinson,
+  the Hon. Andrew Oliver, and Several other Persons
+url: http://www.gutenberg.org/ebooks/48819
