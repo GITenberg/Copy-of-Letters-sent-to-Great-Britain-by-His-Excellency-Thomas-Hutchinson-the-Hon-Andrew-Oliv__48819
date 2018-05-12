@@ -1,4 +1,8 @@
 _repo: Copy-of-Letters-sent-to-Great-Britain-by-His-Excellency-Thomas-Hutchinson-the-Hon-Andrew-Oliv__48819
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48819-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Oliver, Andrew
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '44985'
     url: http://www.gutenberg.org/2009/agents/44985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48819#Copy-of-Letters-sent-to-Great-Britain-by-His-Excellency-Thomas-Hutchinson-the-Hon-Andrew-Oliv_
 gutenberg_issued: '2015-04-28'
 gutenberg_type: Text
 identifiers:
